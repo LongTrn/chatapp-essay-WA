@@ -1,0 +1,23 @@
+{
+  "name": "chat-app-essay-wa",
+  "version": "1.0.0",
+  "description": "Demo chat app with web socket and using socket io for realtime chatting",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongTrn/chatapp-essay-WA.git"
+  },
+  "keywords": [
+    "chatapp-socket-io"
+  ],
+  "author": "LongTrn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LongTrn/chatapp-essay-WA/issues"
+  },
+  "homepage": "https://github.com/LongTrn/chatapp-essay-WA#readme"
+}
